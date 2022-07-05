@@ -1,1 +1,2 @@
-# DataScienceJobs-
+# DataScienceJobs
+COVID-19 pandemic has hugely appended the lives of millions of employed professionals, especially the ones working in the data and analytics industry. Not only this crisis has brought in the new normal of remote working but has also pushed analytics in the forefront, which in turn, has altered the way analytics professionals carry out their work. In fact, according to a recent survey done by Analytics India Magazine, it has been noted that 92% of leadership believe that the demand for analytics would gain traction in the post-COVID world, which will bring out the necessity for organisations to hire new analytics talent.
